@@ -3,4 +3,6 @@ Downloadable data for all schools by London Local Authority is available here:
 
 However, it doesn't include head master, telephone, email or url.
 
-This scrapy crawler extracts all of this additional information from the 'brent' and 'harrow' .gov.uk sites.
+This scrapy crawler extracts all of this additional information from a number of local authority's .gov.uk sites, including: Barnet, Brent, Harrow and Ealing.
+
+The UK govt's open data initiative hasn't properly reached this area yet, hence the need for crawlers. Some of the data for other local authorities is pretty dire, e.g. Camden: http://maps.camden.gov.uk/Nearest/Nearest.aspx?find=Primary%20school
