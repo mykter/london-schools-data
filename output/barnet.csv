@@ -1,120 +1,120 @@
 category,age_range,name,url,address1,address2,address3,address4,head,telephone,email
-Voluntary Aided,5 - 11,Akiva,http://www.akivaschool.org/,"WARNING: address of length 9 - [u'Sternberg', u'Centre', u'80', u'East', u'End', u'Road', u'Finchley', u'N3', u'2SY']",,,,Ms S Stone,020 8349 4980,admin@akivaschool.org
-Academy,11 - 18,Ashmole,http://www.ashmoleacademy.org,"WARNING: address of length 5 - [u'Cecil', u'Road', u'Southgate', u'N14', u'5RJ']",,,,Mr D Brown,020 8361 2703,office@ashmoleacademy.org
-Voluntary Aided,5 - 11,All Saints' CE NW2,,"WARNING: address of length 6 - [u'Cricklewood', u'Lane', u'Childs', u'Hill', u'NW2', u'2TH']",,,,Mr P Taylor,020 8455 9091,office@aspnw2.barnetmail.net
-Voluntary Aided,3 - 11,All Saints' CE N20,,"WARNING: address of length 7 - [u'116', u'Oakleigh', u'Road', u'North', u'Whetstone', u'N20', u'9EZ']",,,,Ms C Read,020 8445 2951,office@allsaintsn20.barnetmail.net
-Community,3 - 11,Tudor,http://www.tudor.barnet.sch.uk/,"WARNING: address of length 5 - [u'Queens', u'Road', u'Finchley', u'N3', u'2AG']",,,,Ms J Stone,020 8346 6010,office@tudor.barnetmail.net
-Voluntary Aided,3 - 11,Rosh Pinah,http://www.rpps.org.uk/,"WARNING: address of length 5 - [u'Glengall', u'Road', u'Edgware', u'HA8', u'8TE']",,,,Mr A Wolfson,020 8958 8599,admin@rpps.org.uk
-Community,3 - 11,Sunnyfields,,"WARNING: address of length 7 - [u'Hatchcroft', u'Off', u'Greyhound', u'Hill', u'Hendon', u'NW4', u'4JH']",,,,Mrs Clare Rees,020 8203 3113,office@sunnyfields.barnetmail.net
-Community,0 - 11,Parkfield,http://barnet.schooljotter.com/parkfield,"WARNING: address of length 9 - [u'17', u'St', u""David's"", u'Place', u'Park', u'Road', u'Hendon', u'NW4', u'3PJ']",,,,Ms A Holding,020 8202 0454,office@parkfield.barnetmail.net
-Community,7 - 11,Queenswell Junior,http://www.queenswelljunior.co.uk/,"WARNING: address of length 5 - [u'Sweets', u'Way', u'Whetstone', u'N20', u'0NQ']",,,,Mr S Clayton,020 8445 2056,office@queenswelljnr.barnetmail.net
-Community,5 - 11,Northway,http://webfronter.com/barnet/Northway/,"WARNING: address of length 6 - [u'The', u'Fairway', u'Mill', u'Hill', u'NW7', u'3HS']",,,,Ms L Burgess,020 8359 5450,office@northway.barnet.sch.uk
-Community,3 - 5,Moss Hall Nursery,http://mosshallnursery.com/,"WARNING: address of length 6 - [u'189', u'Nether', u'Street', u'Finchley', u'N3', u'1NR']",,,,Ms P Holness,020 8445 2518,office@mosshallnursery.barnetmail.net
-Community,7 - 11,Moss Hall Junior,http://www.mosshalljunior.org.uk/,"WARNING: address of length 5 - [u'Nether', u'Street', u'Finchley', u'N3', u'1NR']",,,,Mrs P Grant,020 8445 7965,office@mosshalljnr.barnetmail.net
-Community,4 - 7,Moss Hall Infant,http://www.mosshall-inf.barnet.sch.uk/,"WARNING: address of length 6 - [u'Moss', u'Hall', u'Grove', u'Finchley', u'N12', u'8PE']",,,,Mr R Warren,020 8445 9735,office@mhi.barnetmail.net
-Academy,11 - 19,London Academy,http://www.londonacademy.org.uk/,"WARNING: address of length 5 - [u'Spur', u'Road', u'Edgware', u'HA8', u'8DE']",,,,Ms A Trigg,020 8238 1100,office@londonacademy.org.uk
-Community,3 - 11,Livingstone,http://livingstone.cyberdrome.co.uk/pls/dad_liv/liv_page?p_cr_id=100,"WARNING: address of length 6 - [u'Baring', u'Road', u'New', u'Barnet', u'EN4', u'9BU']",,,,Ms G Phelan,020 8449 2592,office@livingstone.barnetmail.net
-Community,5 - 11,Monkfrith,http://www.monkfrith.barnet.sch.uk/,"WARNING: address of length 5 - [u'Knoll', u'Drive', u'Southgate', u'N14', u'5NG']",,,,Mrs J Adak,020 8368 6020,office@monkfrith.barnetmail.net
-Voluntary Aided,5 - 11,Monken Hadley CE,,"WARNING: address of length 5 - [u'Camlet', u'Way', u'Barnet', u'EN4', u'0NJ']",,,,Mr S Adams,020 8449 0989,office@monkenhadley.barnetmail.net
-Academy,11 - 18,Mill Hill County High,http://www.mhchs.org.uk/,"WARNING: address of length 6 - [u'Worcester', u'Crescent', u'Mill', u'Hill', u'NW7', u'4LL']",,,,Mr G Thompson,0844 477 2424,admin@mhchs.org.uk
-Voluntary Aided,3 - 11,Menorah Primary,,"WARNING: address of length 10 - [u'The', u'Wohl', u'Campus', u'1-3', u'The', u'Drive', u'Golders', u'Green', u'NW11', u'9SP']",,,,Mrs J Menczer,020 8458 1276,office@menorahprimary.barnetmail.net
-Voluntary Aided,3 - 11,Menorah Foundation,,"WARNING: address of length 5 - [u'Abbots', u'Road', u'Edgware', u'HA8', u'0QS']",,,,Mrs C Neuberger,020 8906 9992,office@mfs.barnetmail.net
-Voluntary Aided,3 - 11,Mathilda Marks Kennedy,http://mmks.barnet.lgfl.digitalbrain.com/lgfl/leas/barnet/schools/mmks/,"WARNING: address of length 7 - [u'68', u'Hale', u'Lane', u'Mill', u'Hill', u'NW7', u'3RT']",,,,Ms J Dunstan,020 8959 6089,office@mmks.barnet.sch.uk
-Community,3 - 11,Martin Primary,http://www.martinprimary.barnet.sch.uk/,"WARNING: address of length 7 - [u'Plane', u'Tree', u'Walk', u'East', u'Finchley', u'N2', u'9JP']",,,,Ms H Morrison,020 8883 1455,office@martinprimary.barnetmail.net
-Community,11 - 19,Mapledown,http://www.mapledownschool.co.uk/,"WARNING: address of length 6 - [u'Claremont', u'Road', u'Golders', u'Green', u'NW2', u'1TR']",,,,Mr S Carroll,020 8455 4111,office@mapledown.barnet.sch.uk
-Community,3 - 11,Manorside,http://www.manorsideprimaryschool.co.uk/,"WARNING: address of length 5 - [u'Squires', u'Lane', u'Finchley', u'N3', u'2AB']",,,,Mr S Hilborne,020 8346 4847,office@manorside.barnetmail.net
-Community,3 - 11,Northside,http://www.northsideschool.co.uk/,"WARNING: address of length 6 - [u'Albert', u'Street', u'North', u'Finchley', u'N12', u'8JP']",,,,Ms G Newman,020 8445 4730,office@northside.barnetmail.net
-Community,3 - 7,Queenswell Infant &amp; Nursery,http://www.queenswell-inf.barnet.sch.uk/,"WARNING: address of length 5 - [u'Sweets', u'Way', u'Whetstone', u'N20', u'0NQ']",,,,Ms K Smith,020 8445 0524,office@queenswellinf.barnetmail.net
-Academy,11 - 18,Queen Elizabeth's Girls,http://www.qegschool.org.uk/,"WARNING: address of length 5 - [u'High', u'Street', u'Barnet', u'EN5', u'5RR']",,,,Ms K Webster,020 8449 2984,office@qegs.barnetmail.net
-Academy,11 - 18,Queen Elizabeth's (Boys),http://www.qebarnet.co.uk/,"WARNING: address of length 5 - [u""Queen's"", u'Road', u'Barnet', u'EN5', u'4DQ']",,,,Mr N Enright,020 8441 4646,enquiries@qebarnet.co.uk
-Voluntary Aided,5 - 11,Pardes House,,"WARNING: address of length 5 - [u'Hendon', u'Lane', u'Finchley', u'N3', u'1SA']",,,,Mr J Sagar,020 8343 3568,office@pardeshouse.com
-Community,3 - 11,Summerside,http://www.summersideprimary.co.uk/,Crossway,Finchley,N12,0QU,Ms M Dulay,020 8445 1192,office@summerside.barnetmail.net
-Voluntary Aided,5 - 11,St Vincent's Catholic,http://www.stvincentsnw7.org/,"WARNING: address of length 6 - [u'The', u'Ridgeway', u'Mill', u'Hill', u'NW7', u'1EJ']",,,,Ms D Mansi,020 8959 3417,office@stvincents.barnetmail.net
-Voluntary Aided,5 - 11,St Theresa's Catholic,http://www.st-theresas.barnet.sch.uk/,"WARNING: address of length 6 - [u'East', u'End', u'Road', u'Finchley', u'N3', u'2TD']",,,,Miss M Kelly,020 8346 8826,office@sttheresas.barnetmail.net
-Voluntary Aided,5 - 11,St Paul's CE NW7,http://www.stpaulsnw7.barnet.sch.uk/,"WARNING: address of length 6 - [u'The', u'Ridgeway', u'Mill', u'Hill', u'NW7', u'1QU']",,,,Mr A David,020 8959 3412,office@stpaulsnw7.barnetmail.net
-Voluntary Aided,11 - 18,St Michael's Catholic Grammar,http://www.st-michaels.barnet.sch.uk/,"WARNING: address of length 6 - [u'Nether', u'Street', u'North', u'Finchley', u'N12', u'7NJ']",,,,Mr J Ward,020 8446 2256,office@st-michaels.barnet.sch.uk
-Voluntary Aided,3 - 11,St Paul's CE N11,,"WARNING: address of length 6 - [u'The', u'Avenue', u'Friern', u'Barnet', u'N11', u'1NQ']",,,,Ms P West,020 8368 4839,office@stpaulsn11.barnetmail.net
-Voluntary Aided,3 - 11,St Mary's CE N3,http://www.stmarysfinchley.co.uk/,"WARNING: address of length 5 - [u'Dollis', u'Park', u'Finchley', u'N3', u'1BT']",,,,Mr R Allen,020 8343 0866,office@stmarysn3.barnetmail.net
-Voluntary Aided,5 - 11,St Mary's CE EN4,http://barnet.schooljotter.com/melatstmarys,"WARNING: address of length 5 - [u'Littlegrove', u'East', u'Barnet', u'EN4', u'8SR']",,,,Mrs M Adams,020 8449 5856,office@stmarysen4.barnetmail.net
-Voluntary Aided,3 - 11,St Mary's &amp; John's CE,http://www.smsj.barnet.sch.uk/,"WARNING: address of length 5 - [u'Prothero', u'Gardens', u'Hendon', u'NW4', u'3SL']",,,,Ms D Oelman,020 8202 0026,office@smsj.barnetmail.net
-Community,3 - 5,St Margaret's Nursery,,"WARNING: address of length 6 - [u'Margaret', u'Road', u'New', u'Barnet', u'EN4', u'9NT']",,,,Ms J Chew,020 8449 5466,office@st-margarets.barnetmail.net
-Voluntary Aided,7 - 11,St Joseph's Catholic Junior,,"WARNING: address of length 5 - [u'Watford', u'Way', u'Hendon', u'NW4', u'4TY']",,,,Ms I Ciapryna,020 8202 5229,office@stjosephsjnr.barnet.sch.uk
-Voluntary Aided,3 - 7,St Joseph's Catholic Infant,http://www.stjosephsinfants.co.uk/,"WARNING: address of length 5 - [u'Watford', u'Way', u'Hendon', u'NW4', u'4TY']",,,,Ms M Parsons,020 8202 9852,office@stjosephsinf.barnetmail.net
-Voluntary Aided,3 - 11,St John's CE N20,http://www.stjohnswhetstone.co.uk/,"WARNING: address of length 5 - [u'Swan', u'Lane', u'Whetstone', u'N20', u'0PL']",,,,Ms J Martin,020 8445 4693,office@stjohnsn20.barnetmail.net
-Voluntary Aided,3 - 11,St John's CE N11,,"WARNING: address of length 6 - [u'Crescent', u'Road', u'Friern', u'Barnet', u'N11', u'3LB']",,,,Mr G Gunn,020 8368 1154,office@stjohnsn11.barnetmail.net
-Voluntary Aided,11 - 18,St James' Catholic High,http://www.st-james.barnet.sch.uk/,"WARNING: address of length 5 - [u'Great', u'Strand', u'Colindale', u'NW9', u'5PE']",,,,Ms N Arnull,020 8358 2800,office@st-james.barnetmail.net
-Voluntary Aided,3 - 11,St Catherine's Catholic,http://webfronter.com/barnet/stcatherines/,"WARNING: address of length 5 - [u'Vale', u'Drive', u'Barnet', u'EN5', u'2ED']",,,,Mrs E Quigley,020 8440 4946,office@stcatherines.barnetmail.net
-Voluntary Aided,3 - 11,St Agnes' Catholic,,"WARNING: address of length 5 - [u'Thorverton', u'Road', u'Cricklewood', u'NW2', u'1RG']",,,,Mrs C Jordan,020 8452 4565,office@stagnes.barnetmail.net
-Voluntary Aided,5 - 11,St Andrew's CE,http://www.standrewstotteridge.co.uk/,"WARNING: address of length 5 - [u'The', u'Green', u'Totteridge', u'N20', u'8NX']",,,,Ms H Lockham,020 8445 6157,office@standrews.barnetmail.net
-Free,4 - 11,Rimon Jewish Primary,http://www.rimonschool.org.uk,"WARNING: address of length 8 - [u'41', u'Dunstan', u'Road', u'Golders', u'Green', u'London', u'NW11', u'8AE']",,,,Dr Zoe Dunn,020 8209 1805,office@rimonschool.org.uk
-Voluntary Aided,5 - 11,Trent CE,http://webfronter.com/barnet/trent/,"WARNING: address of length 7 - [u'Churchway', u'Off', u'Chalk', u'Lane', u'Cockfosters', u'EN4', u'9JH']",,,,Ms L Yarwood,020 8449 6875,office@trent.barnetmail.net
-Academy,11 - 18,The Totteridge Academy,http://www.thetotteridgeacademy.co.uk/,"WARNING: address of length 5 - [u'Barnet', u'Lane', u'Totteridge', u'N20', u'8AZ']",,,,Mr P Ferrie,020 8445 9205,office@tta.barnetmail.net
-Community,3 - 11,The Orion,http://www.theorion.org.uk/,"WARNING: address of length 7 - [u'Lanacre', u'Avenue', u'Grahame', u'Park', u'Colindale', u'NW9', u'5FN']",,,,Mr C Flathers,020 8205 9324,office@orion.barnetmail.net
-Community,3 - 11,The Hyde,,"WARNING: address of length 5 - [u'Hyde', u'Crescent', u'Hendon', u'NW9', u'7EY']",,,,Ms J Djora,020 8205 8707,office@hyde.barnetmail.net
-Voluntary Aided,7 - 11,The Annunciation Catholic Junior,,"WARNING: address of length 6 - [u'The', u'Meads', u'Burnt', u'Oak', u'HA8', u'9HQ']",,,,Ms M McManus,020 8906 0723,office@annunciationjnr.barnetmail.net
-Voluntary Aided,3 - 7,The Annunciation Catholic Infant,,"WARNING: address of length 5 - [u'Thirleby', u'Road', u'Edgware', u'HA8', u'0HQ']",,,,Miss T Lynch,020 8959 2325,office@annunciationinf.barnetmail.net
-Voluntary Aided,3 - 11,Our Lady of Lourdes Catholic,,"WARNING: address of length 5 - [u'Bow', u'Lane', u'Finchley', u'N12', u'0JP']",,,,Ms B Costa,020 8346 1681,office@olol.barnetmail.net
-Foundation,4 - 11,Osidge,http://www.osidge.barnet.sch.uk/,"WARNING: address of length 5 - [u'Chase', u'Side', u'Southgate', u'N14', u'5HD']",,,,Mr D Worrall,020 8886 7108,office@osidge.barnetmail.net
-Community,2 - 11,Oakleigh,http://www.oakleighschool.co.uk/,"WARNING: address of length 6 - [u'Oakeigh', u'Road', u'North', u'Whetstone', u'N20', u'0DH']",,,,Ms J Gridley,020 8368 5336,office@oakleigh.barnetmail.net
-Community,11 - 19,Oak Lodge,http://www.oaklodge.barnet.sch.uk/,"WARNING: address of length 9 - [u'Heath', u'View', u'off', u'East', u'End', u'Road', u'Finchley', u'N2', u'0QY']",,,,Mrs L Walker,020 8444 6711,office@oaklodge.barnetmail.net
-Community,5 - 7,Underhill Infant,http://webfronter.com/barnet/UnderhillInfant/,"WARNING: address of length 5 - [u'Mays', u'Lane', u'Barnet', u'EN5', u'2LZ']",,,,Mrs E Moore,020 8359 3440,office@underhillinf.barnetmail.net
-Academy,3 - 11,Independent Jewish Day,http://www.ijds.co.uk/,"WARNING: address of length 6 - [u'46', u'Green', u'Lane', u'Hendon', u'NW4', u'2AH']",,,,Miss A Lando,020 8203 2299,office@ijds.barnetmail.net
-Community,3 - 5,Hampden Way (N),,"WARNING: address of length 5 - [u'Hampden', u'Way', u'Southgate', u'N14', u'5DJ']",,,,Ms J McCallum,020 8368 2131,office@hampdenway.barnetmail.net
-Voluntary Aided,3 - 11,Holy Trinity CE,http://webfronter.com/barnet/holytrinityn2/,"WARNING: address of length 8 - [u'Eagans', u'Close', u'Market', u'Place', u'East', u'Finchley', u'N2', u'8GA']",,,,Mr T Bowden,020 8883 1824,office@holytrinity.barnetmail.net
-Community,7 - 11,Underhill Junior,,"WARNING: address of length 5 - [u'Mays', u'Lane', u'Barnet', u'EN5', u'2LZ']",,,,Mrs N Goddard,020 8449 2423,office@underhilljnr.barnetmail.net
-Voluntary Aided,11 - 18,JCoSS,http://www.jcoss.org/,"WARNING: address of length 6 - [u'Castlewood', u'Road', u'East', u'Barnet', u'EN4', u'9GE']",,,,Mr P Moriarty,020 8344 2220,admin@jcoss.barnet.sch.uk
-Community,0 - 11,Fairway,http://webfronter.com/barnet/Fairway/,"WARNING: address of length 6 - [u'The', u'Fairway', u'Mill', u'Hill', u'NW7', u'3HS']",,,,Ms J Parker,020 8359 5380,office@fairway.barnet.sch.uk
-Foundation,7 - 11,Dollis Junior,http://www.dollisjunior.com/,"WARNING: address of length 6 - [u'Pursley', u'Road', u'Mill', u'Hill', u'NW7', u'2BU']",,,,Mr C Dowland,020 8959 4728,office@dollisjnr.barnetmail.net
-,3 - 11,Etz Chaim,http://www.etzchaim-primaryschool.org.uk/,"WARNING: address of length 7 - [u'33-35', u'Daws', u'Lane', u'Mill', u'Hill', u'NW7', u'4SD']",,,,Ms Y Baron,020 8906 2983,admin@etzchaim-primaryschool.org.uk
-Community,3 - 11,Brunswick Park,http://www.brunswickpark.barnet.sch.uk/,"WARNING: address of length 5 - [u'Osidge', u'Lane', u'Southgate', u'N14', u'5DU']",,,,Mr A Griffiths,020 8368 3468,office@brunswickpark.barnetmail.net
-Voluntary Aided,11 - 18,St Mary's CE High,http://www.st-maryshigh.barnet.sch.uk/vebo/,Downage,Hendon,NW4,1AB,Ms K Roskell,020 8203 2827,admin@st-maryshigh.barnet.sch.uk
-Community,7 - 11,Brookland Junior,,"WARNING: address of length 7 - [u'Hill', u'Top', u'Hampstead', u'Garden', u'Suburb', u'NW11', u'6EJ']",,,,Ms H Blackmore,020 8346 6937,office@brooklandjnr.barnetmail.net
-Academy,5 - 7,Grasvenor Avenue Infant,http://www.grasvenorinfantschool.org.uk/,"WARNING: address of length 5 - [u'Grasvenor', u'Avenue', u'Barnet', u'EN5', u'2BY']",,,,Mr J Newton,020 8449 6053,office@grasvenoravenue.barnetmail.net
-Community,3 - 5,Brookhill (N),,"WARNING: address of length 6 - [u'Brookhill', u'Road', u'East', u'Barnet', u'EN4', u'8SD']",,,,Ms C Rudge,020 8449 0601,office@brookhillnursery.barnetmail.net
-Voluntary Aided,11 - 18,Bishop Douglass Catholic,http://www.bishopdouglass.barnet.sch.uk,"WARNING: address of length 6 - [u'Hamilton', u'Road', u'East', u'Finchley', u'N2', u'0SQ']",,,,Ms A Murphy,020 8444 5211,office@bishopdouglass.barnetmail.net
-Community,3 - 11,Bell Lane,http://www.belllane.barnet.sch.uk,"WARNING: address of length 5 - [u'Bell', u'Lane', u'Hendon', u'NW4', u'2AS']",,,,Ms E Wilson,020 8203 3115,office@belllane.barnetmail.net
-Voluntary Aided,3 - 11,Beit Shvidler Primary (formerly Edgware Jewish Primary),http://www.beitshvidler.org.uk,"WARNING: address of length 6 - [u'261', u'Hale', u'Lane', u'Edgware', u'HA8', u'8NX']",,,,Ms S Keen,020 8238 2746,admin@beitshvidler.org.uk
-Voluntary Aided,3 - 11,Beis Yaakov,,"WARNING: address of length 6 - [u'373', u'Edgware', u'Road', u'Colindale', u'NW9', u'6NQ']",,,,Mrs H Cohen,020 8905 9590,office@beisyaakov.barnet.sch.uk
-Community,3 - 11,Barnfield,http://www.barnfieldschool.co.uk/,"WARNING: address of length 5 - [u'Silkstream', u'Road', u'Edgware', u'HA8', u'0DA']",,,,Mr P Wiggins,020 8952 6026,office@barnfield.barnetmail.net
-Voluntary Aided,3 - 11,Blessed Dominic Catholic,http://www.blesseddominic.barnet.sch.uk/,"WARNING: address of length 7 - [u'Lanacre', u'Avenue', u'Grahame', u'Park', u'Colindale', u'NW9', u'5FN']",,,,Ms G Pears,020 8205 3790,office@blesseddominic.barnetmail.net
-Community,3 - 7,Edgware Infant &amp; Nursery,http://www.edgware-inf.barnet.sch.uk/,"WARNING: address of length 5 - [u'High', u'Street', u'Edgware', u'HA8', u'7EQ']",,,,Mr D Robinson,020 8952 1696,info@edgware-inf.barnet.sch.uk
-Academy,11 - 18,East Barnet,http://www.eastbarnet.barnet.sch.uk/,"WARNING: address of length 6 - [u'Chestnut', u'Grove', u'East', u'Barnet', u'EN4', u'8PU']",,,,Mr N Christou,020 8344 2100,office@eastbarnet.barnet.sch.uk
-Community,3 - 7,Dollis Infant,http://webfronter.com/barnet/dollisinfants/,"WARNING: address of length 6 - [u'Pursley', u'Road', u'Mill', u'Hill', u'NW7', u'2BU']",,,,Ms C Rayner,020 8959 3995,office@dollisinf.barnetmail.net
-Community,7 - 11,Deansbrook Junior,http://webfronter.com/barnet/deansbrookjuniorschool/,"WARNING: address of length 6 - [u'Hale', u'Drive', u'Mill', u'Hill', u'NW7', u'3ED']",,,,Mr S Putman,020 8959 3423,office@deansbrookjnr.barnetmail.net
-Community,3 - 7,Deansbrook Infant,http://www.deansbrookinfants.org.uk/,"WARNING: address of length 6 - [u'Hale', u'Drive', u'Mill', u'Hill', u'NW7', u'3ED']",,,,Ms C Catley,020 8959 2152,office@deansbrookinf.barnetmail.net
-Community,3 - 7,Brookland Infant,,"WARNING: address of length 7 - [u'Hill', u'Top', u'Hampstead', u'Garden', u'Suburb', u'NW11', u'6EJ']",,,,Ms S Dickinson,020 8346 6824,office@brooklandinf.barnetmail.net
-Community,5 - 11,Courtland,http://www.courtland.barnet.sch.uk/,"WARNING: address of length 6 - [u'Courtland', u'Avenue', u'Mill', u'Hill', u'NW7', u'3BG']",,,,Ms L Walker,020 8959 3274,office@courtland.barnetmail.net
-Academy,11 - 18,Copthall,http://www.copthallschool.org.uk/,"WARNING: address of length 6 - [u'Pursley', u'Road', u'Mill', u'Hill', u'NW7', u'2EP']",,,,Ms J Beaumont,020 8959 1937,office@copthall.barnetmail.net
-Community,3 - 11,Coppetts Wood,http://www.coppettswood.barnet.sch.uk/,"WARNING: address of length 6 - [u'Coppetts', u'Road', u'Friern', u'Barnet', u'N10', u'1JS']",,,,Mr D Chetty,020 8883 0248,office@coppettswood.barnetmail.net
-Academy,11 - 16,Compton (The),http://www.thecomptonschool.co.uk/,"WARNING: address of length 5 - [u'Summers', u'Lane', u'Finchley', u'N12', u'0QG']",,,,Ms T Tunnadine,020 8368 1783,office@thecompton.org.uk
-Community,3 - 11,Colindale,http://www.colindale.barnet.sch.uk/,"WARNING: address of length 5 - [u'Clovelly', u'Avenue', u'Colindale', u'NW9', u'6DT']",,,,Mrs S Lajalati,020 8205 8706,office@colindale.barnetmail.net
-Community,3 - 11,Claremont,,"WARNING: address of length 5 - [u'Claremont', u'Road', u'Cricklewood', u'NW2', u'1AB']",,,,Ms A Anscomb,020 8455 4013,office@claremont.barnetmail.net
-Community,5 - 11,Church Hill,http://www.churchhill.barnet.sch.uk/,"WARNING: address of length 6 - [u'Burlington', u'Rise', u'East', u'Barnet', u'EN4', u'8NN']",,,,Ms R Mottershead,020 8368 3431,office@churchhill.barnetmail.net
-Academy,11 - 18,Christ's College Finchley,http://www.ccfplus.com/school,"WARNING: address of length 6 - [u'East', u'End', u'Road', u'Finchley', u'N2', u'0SE']",,,,Mr G Tucker,020 8349 3581,info@ccfplus.com
-Community,3 - 11,Broadfields,http://www.broadfields.barnet.sch.uk/,"WARNING: address of length 5 - [u'Roseberry', u'Drive', u'Edgware', u'HA8', u'8JP']",,,,Mr R Archibald,020 8359 5430,office@broadfields.barnetmail.net
-Voluntary Aided,3 - 11,Christ Church CE,http://www.christchurchschoolbarnet.org.uk/,"WARNING: address of length 5 - [u'Byng', u'Road', u'Barnet', u'EN5', u'4NS']",,,,Mr M Dean,020 8440 2198,office@christchurch.barnetmail.net
-Community,5 - 11,Chalgrove,http://webfronter.com/barnet/Chalgrove/,"WARNING: address of length 5 - [u'Chalgrove', u'Gardens', u'Finchley', u'N3', u'3PL']",,,,Ms J Gaffney,020 8349 1798,office@chalgrove.barnetmail.net
-Community,5 - 11,Danegrove,http://www.danegroveschool.co.uk/,"WARNING: address of length 6 - [u'Windsor', u'Drive', u'East', u'Barnet', u'EN4', u'8UD']",,,,Ms Catherine Gunning (Acting),020 8449 4024,office@danegrove.barnetmail.net
-Community,3 - 11,Frith Manor,http://frithmanorschool.com/,"WARNING: address of length 6 - [u'Lullington', u'Garth', u'Woodside', u'Park', u'N12', u'7BN']",,,,Ms L Carmichael,020 8346 2388,office@frithmanor.barnetmail.net
-Community,3 - 11,Childs Hill,http://www.childshill.barnet.sch.uk/,"WARNING: address of length 6 - [u'Dersingham', u'Road', u'Childs', u'Hill', u'NW2', u'1SL']",,,,Mr D Hawkins,020 8452 4531,office@childshill.barnetmail.net
-Community,11 - 16,Friern Barnet,http://www.friern.barnet.sch.uk/,"WARNING: address of length 6 - [u'Hemington', u'Avenue', u'Friern', u'Barnet', u'N11', u'3LS']",,,,Mr J Turner,020 8368 2777,office@friern.barnet.sch.uk
-Voluntary Aided,11 - 18,Finchley Catholic High,http://www.finchleycatholic.org.uk/,"WARNING: address of length 5 - [u'Woodside', u'Lane', u'Finchley', u'N12', u'8TA']",,,,Mr S McKenna,020 8445 0105,office@finchleycatholichigh.barnetmail.net
-Community,3 - 11,Goldbeaters,http://webfronter.com/barnet/goldbeaters/,"WARNING: address of length 5 - [u'Thirleby', u'Road', u'Edgware', u'HA8', u'0HA']",,,,Mr C Flathers,020 8959 6033,office@goldbeaters.barnetmail.net
-Community,7 - 11,Garden Suburb Junior,http://www.gardensuburbjunior.co.uk/,"WARNING: address of length 7 - [u'Childs', u'Way', u'Hampstead', u'Garden', u'Suburb', u'NW11', u'6XU']",,,,Ms E Bhavsar,020 8455 3269,office@gsjs.barnetmail.net
-Community,3 - 11,Holly Park,,"WARNING: address of length 6 - [u'Bellevue', u'Road', u'Friern', u'Barnet', u'N11', u'3HG']",,,,Mr J Maxwell,020 8368 1434,office@hollypark.barnetmail.net
-Foundation,3 - 11,Hollickwood,http://www.hollickwoodschool.org/,"WARNING: address of length 6 - [u'Sydney', u'Road', u'Muswell', u'Hill', u'N10', u'2NL']",,,,Mr J Westmore,020 8883 6880,office@hollickwood.barnetmail.net
-Academy,11 - 18,Henrietta Barnett (The),http://www.hbschool.org.uk/,"WARNING: address of length 7 - [u'Central', u'Square', u'Hampstead', u'Garden', u'Suburb', u'NW11', u'7BN']",,,,Mr O Blond,020 8458 8999,office@hbschool.barnetmail.net
-Community,5 - 7,Garden Suburb Infant,http://www.gardensuburbinfant.co.uk/,"WARNING: address of length 7 - [u'Childs', u'Way', u'Hampstead', u'Garden', u'Suburb', u'NW11', u'6XU']",,,,Ms S Sands,020 8455 8198,office@gsis.barnetmail.net
-Voluntary Aided,3 - 11,Hasmonean Primary,,"WARNING: address of length 6 - [u'8-10', u'Shirehall', u'Lane', u'Hendon', u'NW4', u'2PD']",,,,Mrs J Rodin,020 8202 7704,office@hasmonean-pri.barnetmail.net
-Academy,11 - 18,Hasmonean High School,http://www.hasmonean.co.uk/,"WARNING: address of length 8 - [u'Boys', u'Site:', u'Holders', u'Hill', u'Road', u'Hendon', u'NW4', u'1NA']",,,,Rabbi D Meyer,020 8203 1411,email@hasmonean.co.uk
-Voluntary Aided,5 - 11,Sacred Heart Catholic,http://www.sacredheartonline.ik.org/,"WARNING: address of length 7 - [u'2', u'Oakleigh', u'Park', u'South', u'Whetstone', u'N20', u'9JU']",,,,Mrs C McMahon,020 8445 3854,office@sacredheart.barnetmail.net
-Community,5 - 11,Foulds,http://webfronter.com/barnet/foulds/,"WARNING: address of length 5 - [u'Byng', u'Road', u'Barnet', u'EN5', u'4NR']",,,,Ms N Woolf,020 8449 2714,office@foulds.barnetmail.net
-Academy,11 - 18,Hendon,http://www.hendonschool.co.uk/,"WARNING: address of length 5 - [u'Golders', u'Rise', u'Hendon', u'NW4', u'2HP']",,,,Mr K McKellar,020 8202 9004,info@hendonschool.co.uk
-Community,7 - 11,Edgware Junior,http://www.edgware-jun.barnet.sch.uk/,"WARNING: address of length 5 - [u'Heming', u'Road', u'Edgware', u'HA8', u'9AB']",,,,Ms S Patterson,020 8952 1472,office@edgware-jun.barnetmail.net
-Community,3 - 11,Wessex Gardens,http://www.wessexgardens.co.uk/,"WARNING: address of length 6 - [u'Wessex', u'Gardens', u'Golders', u'Green', u'NW11', u'9RR']",,,,Ms K Dawbarn,020 8455 9572,office@wessexgardens.barnetmail.net
-Community,5 - 11,Woodridge,,"WARNING: address of length 5 - [u'Southover', u'North', u'Finchley', u'N12', u'7HE']",,,,Ms V Phillips,020 8445 5478,office@woodridge.barnetmail.net
-Academy,11 - 18,Wren Academy,http://www.wrenacademy.org/,"WARNING: address of length 6 - [u'Hilton', u'Avenue', u'North', u'Finchley', u'N12', u'9HB']",,,,Mr M Whitworth,020 8492 6000,firstcontact@wrenacademy.org
-Academy,11 - 18,Whitefield,http://www.whitefield.barnet.sch.uk/,"WARNING: address of length 5 - [u'Claremont', u'Road', u'Cricklewood', u'NW2', u'1TR']",,,,Mr M Lavelle,020 8455 4114,office@whitefield.barnetmail.net
-Community,5 - 11,Cromer Road,http://www.cromerroad.com/,"WARNING: address of length 6 - [u'Cromer', u'Road', u'New', u'Barnet', u'EN5', u'5HT']",,,,Mrs H Schmitz,020 8449 3492,office@cromer.barnetmail.net
-Community,3 - 11,Woodcroft,http://www.woodcroft.barnet.sch.uk/,"WARNING: address of length 5 - [u'Goldbeaters', u'Grove', u'Edgware', u'HA8', u'0QF']",,,,Mr C Tallon,020 8959 3244,office@woodcroft.barnetmail.net
-Community,3 - 11,Whitings Hill,http://www.whitingshill.barnet.sch.uk/,"WARNING: address of length 5 - [u'Whitings', u'Road', u'Barnet', u'EN5', u'2QY']",,,,Ms S Convery,020 8359 5360,office@whitingshill.barnetmail.net
+Voluntary Aided,5 - 11,Akiva,http://www.akivaschool.org/,Sternberg Centre,80 East End Road,Finchley,N3 2SY,Ms S Stone,020 8349 4980,admin@akivaschool.org
+Academy,11 - 18,Ashmole,http://www.ashmoleacademy.org,Cecil Road,Southgate,N14 5RJ,,Mr D Brown,020 8361 2703,office@ashmoleacademy.org
+Voluntary Aided,5 - 11,All Saints' CE NW2,,Cricklewood Lane,Childs Hill,NW2 2TH,,Mr P Taylor,020 8455 9091,office@aspnw2.barnetmail.net
+Voluntary Aided,3 - 11,All Saints' CE N20,,116 Oakleigh Road North,Whetstone,N20 9EZ,,Ms C Read,020 8445 2951,office@allsaintsn20.barnetmail.net
+Community,3 - 11,Tudor,http://www.tudor.barnet.sch.uk/,Queens Road,Finchley,N3 2AG,,Ms J Stone,020 8346 6010,office@tudor.barnetmail.net
+Community,3 - 11,Sunnyfields,,Hatchcroft,Off Greyhound Hill,Hendon,NW4 4JH,Mrs Clare Rees,020 8203 3113,office@sunnyfields.barnetmail.net
+Voluntary Aided,3 - 11,Rosh Pinah,http://www.rpps.org.uk/,Glengall Road,Edgware,HA8 8TE,,Mr A Wolfson,020 8958 8599,admin@rpps.org.uk
+Community,7 - 11,Queenswell Junior,http://www.queenswelljunior.co.uk/,Sweets Way,Whetstone,N20 0NQ,,Mr S Clayton,020 8445 2056,office@queenswelljnr.barnetmail.net
+Community,0 - 11,Parkfield,http://barnet.schooljotter.com/parkfield,17 St David's Place,Park Road,Hendon,NW4 3PJ,Ms A Holding,020 8202 0454,office@parkfield.barnetmail.net
+Community,5 - 11,Northway,http://webfronter.com/barnet/Northway/,The Fairway,Mill Hill,NW7 3HS,,Ms L Burgess,020 8359 5450,office@northway.barnet.sch.uk
+Community,3 - 5,Moss Hall Nursery,http://mosshallnursery.com/,189 Nether Street,Finchley,N3 1NR,,Ms P Holness,020 8445 2518,office@mosshallnursery.barnetmail.net
+Community,7 - 11,Moss Hall Junior,http://www.mosshalljunior.org.uk/,Nether Street,Finchley,N3 1NR,,Mrs P Grant,020 8445 7965,office@mosshalljnr.barnetmail.net
+Voluntary Aided,3 - 11,Our Lady of Lourdes Catholic,,Bow Lane,Finchley,N12 0JP,,Ms B Costa,020 8346 1681,office@olol.barnetmail.net
+Community,5 - 11,Monkfrith,http://www.monkfrith.barnet.sch.uk/,Knoll Drive,Southgate,N14 5NG,,Mrs J Adak,020 8368 6020,office@monkfrith.barnetmail.net
+Voluntary Aided,5 - 11,Monken Hadley CE,,Camlet Way,Barnet,EN4 0NJ,,Mr S Adams,020 8449 0989,office@monkenhadley.barnetmail.net
+Academy,11 - 18,Mill Hill County High,http://www.mhchs.org.uk/,Worcester Crescent,Mill Hill,NW7 4LL,,Mr G Thompson,0844 477 2424,admin@mhchs.org.uk
+Community,4 - 7,Moss Hall Infant,http://www.mosshall-inf.barnet.sch.uk/,Moss Hall Grove,Finchley,N12 8PE,,Mr R Warren,020 8445 9735,office@mhi.barnetmail.net
+Voluntary Aided,3 - 11,Menorah Foundation,,Abbots Road,Edgware,HA8 0QS,,Mrs C Neuberger,020 8906 9992,office@mfs.barnetmail.net
+Voluntary Aided,3 - 11,Mathilda Marks Kennedy,http://mmks.barnet.lgfl.digitalbrain.com/lgfl/leas/barnet/schools/mmks/,68 Hale Lane,Mill Hill,NW7 3RT,,Ms J Dunstan,020 8959 6089,office@mmks.barnet.sch.uk
+Community,3 - 11,Martin Primary,http://www.martinprimary.barnet.sch.uk/,Plane Tree Walk,East Finchley,N2 9JP,,Ms H Morrison,020 8883 1455,office@martinprimary.barnetmail.net
+Community,11 - 19,Mapledown,http://www.mapledownschool.co.uk/,Claremont Road,Golders Green,NW2 1TR,,Mr S Carroll,020 8455 4111,office@mapledown.barnet.sch.uk
+Community,3 - 11,Northside,http://www.northsideschool.co.uk/,Albert Street,North Finchley,N12 8JP,,Ms G Newman,020 8445 4730,office@northside.barnetmail.net
+Foundation,4 - 11,Osidge,http://www.osidge.barnet.sch.uk/,Chase Side,Southgate,N14 5HD,,Mr D Worrall,020 8886 7108,office@osidge.barnetmail.net
+Community,2 - 11,Oakleigh,http://www.oakleighschool.co.uk/,Oakeigh Road North,Whetstone,N20 0DH,,Ms J Gridley,020 8368 5336,office@oakleigh.barnetmail.net
+Community,11 - 19,Oak Lodge,http://www.oaklodge.barnet.sch.uk/,Heath View,off East End Road,Finchley,N2 0QY,Mrs L Walker,020 8444 6711,office@oaklodge.barnetmail.net
+Voluntary Aided,5 - 11,Pardes House,,Hendon Lane,Finchley,N3 1SA,,Mr J Sagar,020 8343 3568,office@pardeshouse.com
+Community,3 - 7,Queenswell Infant &amp; Nursery,http://www.queenswell-inf.barnet.sch.uk/,Sweets Way,Whetstone,N20 0NQ,,Ms K Smith,020 8445 0524,office@queenswellinf.barnetmail.net
+Academy,11 - 18,Queen Elizabeth's Girls,http://www.qegschool.org.uk/,High Street,Barnet,EN5 5RR,,Ms K Webster,020 8449 2984,office@qegs.barnetmail.net
+Academy,11 - 18,Queen Elizabeth's (Boys),http://www.qebarnet.co.uk/,Queen's Road,Barnet,EN5 4DQ,,Mr N Enright,020 8441 4646,enquiries@qebarnet.co.uk
+Free,4 - 11,Rimon Jewish Primary,http://www.rimonschool.org.uk,41 Dunstan Road,Golders Green,London,NW11 8AE,Dr Zoe Dunn,020 8209 1805,office@rimonschool.org.uk
+Community,3 - 11,Summerside,http://www.summersideprimary.co.uk/,Crossway,Finchley,N12 0QU,,Ms M Dulay,020 8445 1192,office@summerside.barnetmail.net
+Voluntary Aided,5 - 11,St Vincent's Catholic,http://www.stvincentsnw7.org/,The Ridgeway,Mill Hill,NW7 1EJ,,Ms D Mansi,020 8959 3417,office@stvincents.barnetmail.net
+Voluntary Aided,5 - 11,St Theresa's Catholic,http://www.st-theresas.barnet.sch.uk/,East End Road,Finchley,N3 2TD,,Miss M Kelly,020 8346 8826,office@sttheresas.barnetmail.net
+Voluntary Aided,5 - 11,St Paul's CE NW7,http://www.stpaulsnw7.barnet.sch.uk/,The Ridgeway,Mill Hill,NW7 1QU,,Mr A David,020 8959 3412,office@stpaulsnw7.barnetmail.net
+Voluntary Aided,3 - 11,St Paul's CE N11,,The Avenue,Friern Barnet,N11 1NQ,,Ms P West,020 8368 4839,office@stpaulsn11.barnetmail.net
+Voluntary Aided,11 - 18,St Michael's Catholic Grammar,http://www.st-michaels.barnet.sch.uk/,Nether Street,North Finchley,N12 7NJ,,Mr J Ward,020 8446 2256,office@st-michaels.barnet.sch.uk
+Voluntary Aided,3 - 11,St Mary's CE N3,http://www.stmarysfinchley.co.uk/,Dollis Park,Finchley,N3 1BT,,Mr R Allen,020 8343 0866,office@stmarysn3.barnetmail.net
+Voluntary Aided,11 - 18,St Mary's CE High,http://www.st-maryshigh.barnet.sch.uk/vebo/,Downage,Hendon,NW4 1AB,,Ms K Roskell,020 8203 2827,admin@st-maryshigh.barnet.sch.uk
+Voluntary Aided,3 - 11,St Mary's &amp; John's CE,http://www.smsj.barnet.sch.uk/,Prothero Gardens,Hendon,NW4 3SL,,Ms D Oelman,020 8202 0026,office@smsj.barnetmail.net
+Community,3 - 5,St Margaret's Nursery,,Margaret Road,New Barnet,EN4 9NT,,Ms J Chew,020 8449 5466,office@st-margarets.barnetmail.net
+Voluntary Aided,7 - 11,St Joseph's Catholic Junior,,Watford Way,Hendon,NW4 4TY,,Ms I Ciapryna,020 8202 5229,office@stjosephsjnr.barnet.sch.uk
+Voluntary Aided,3 - 7,St Joseph's Catholic Infant,http://www.stjosephsinfants.co.uk/,Watford Way,Hendon,NW4 4TY,,Ms M Parsons,020 8202 9852,office@stjosephsinf.barnetmail.net
+Voluntary Aided,3 - 11,St John's CE N20,http://www.stjohnswhetstone.co.uk/,Swan Lane,Whetstone,N20 0PL,,Ms J Martin,020 8445 4693,office@stjohnsn20.barnetmail.net
+Voluntary Aided,3 - 11,St John's CE N11,,Crescent Road,Friern Barnet,N11 3LB,,Mr G Gunn,020 8368 1154,office@stjohnsn11.barnetmail.net
+Voluntary Aided,11 - 18,St James' Catholic High,http://www.st-james.barnet.sch.uk/,Great Strand,Colindale,NW9 5PE,,Ms N Arnull,020 8358 2800,office@st-james.barnetmail.net
+Voluntary Aided,3 - 11,St Catherine's Catholic,http://webfronter.com/barnet/stcatherines/,Vale Drive,Barnet,EN5 2ED,,Mrs E Quigley,020 8440 4946,office@stcatherines.barnetmail.net
+Community,3 - 11,Manorside,http://www.manorsideprimaryschool.co.uk/,Squires Lane,Finchley,N3 2AB,,Mr S Hilborne,020 8346 4847,office@manorside.barnetmail.net
+Voluntary Aided,3 - 11,Menorah Primary,,The Wohl Campus,1-3 The Drive,Golders Green,NW11 9SP,Mrs J Menczer,020 8458 1276,office@menorahprimary.barnetmail.net
+Voluntary Aided,3 - 11,St Agnes' Catholic,,Thorverton Road,Cricklewood,NW2 1RG,,Mrs C Jordan,020 8452 4565,office@stagnes.barnetmail.net
+Voluntary Aided,5 - 11,Trent CE,http://webfronter.com/barnet/trent/,Churchway,Off Chalk Lane,Cockfosters,EN4 9JH,Ms L Yarwood,020 8449 6875,office@trent.barnetmail.net
+Academy,11 - 18,The Totteridge Academy,http://www.thetotteridgeacademy.co.uk/,Barnet Lane,Totteridge,N20 8AZ,,Mr P Ferrie,020 8445 9205,office@tta.barnetmail.net
+Community,3 - 11,The Orion,http://www.theorion.org.uk/,Lanacre Avenue,Grahame Park,Colindale,NW9 5FN,Mr C Flathers,020 8205 9324,office@orion.barnetmail.net
+Community,3 - 11,The Hyde,,Hyde Crescent,Hendon,NW9 7EY,,Ms J Djora,020 8205 8707,office@hyde.barnetmail.net
+Voluntary Aided,7 - 11,The Annunciation Catholic Junior,,The Meads,Burnt Oak,HA8 9HQ,,Ms M McManus,020 8906 0723,office@annunciationjnr.barnetmail.net
+Voluntary Aided,3 - 7,The Annunciation Catholic Infant,,Thirleby Road,Edgware,HA8 0HQ,,Miss T Lynch,020 8959 2325,office@annunciationinf.barnetmail.net
+Academy,11 - 19,London Academy,http://www.londonacademy.org.uk/,Spur Road,Edgware,HA8 8DE,,Ms A Trigg,020 8238 1100,office@londonacademy.org.uk
+Community,3 - 11,Livingstone,http://livingstone.cyberdrome.co.uk/pls/dad_liv/liv_page?p_cr_id=100,Baring Road,New Barnet,EN4 9BU,,Ms G Phelan,020 8449 2592,office@livingstone.barnetmail.net
+Voluntary Aided,11 - 18,JCoSS,http://www.jcoss.org/,Castlewood Road,East Barnet,EN4 9GE,,Mr P Moriarty,020 8344 2220,admin@jcoss.barnet.sch.uk
+Academy,3 - 11,Independent Jewish Day,http://www.ijds.co.uk/,46 Green Lane,Hendon,NW4 2AH,,Miss A Lando,020 8203 2299,office@ijds.barnetmail.net
+Community,7 - 11,Underhill Junior,,Mays Lane,Barnet,EN5 2LZ,,Mrs N Goddard,020 8449 2423,office@underhilljnr.barnetmail.net
+Academy,5 - 7,Grasvenor Avenue Infant,http://www.grasvenorinfantschool.org.uk/,Grasvenor Avenue,Barnet,EN5 2BY,,Mr J Newton,020 8449 6053,office@grasvenoravenue.barnetmail.net
+Community,3 - 11,Frith Manor,http://frithmanorschool.com/,Lullington Garth,Woodside Park,N12 7BN,,Ms L Carmichael,020 8346 2388,office@frithmanor.barnetmail.net
+,3 - 11,Etz Chaim,http://www.etzchaim-primaryschool.org.uk/,33-35 Daws Lane,Mill Hill,NW7 4SD,,Ms Y Baron,020 8906 2983,admin@etzchaim-primaryschool.org.uk
+Foundation,7 - 11,Dollis Junior,http://www.dollisjunior.com/,Pursley Road,Mill Hill,NW7 2BU,,Mr C Dowland,020 8959 4728,office@dollisjnr.barnetmail.net
+Community,5 - 11,Cromer Road,http://www.cromerroad.com/,Cromer Road,New Barnet,EN5 5HT,,Mrs H Schmitz,020 8449 3492,office@cromer.barnetmail.net
+Community,3 - 11,Brunswick Park,http://www.brunswickpark.barnet.sch.uk/,Osidge Lane,Southgate,N14 5DU,,Mr A Griffiths,020 8368 3468,office@brunswickpark.barnetmail.net
+Community,7 - 11,Brookland Junior,,Hill Top,Hampstead Garden Suburb,NW11 6EJ,,Ms H Blackmore,020 8346 6937,office@brooklandjnr.barnetmail.net
+Community,3 - 7,Brookland Infant,,Hill Top,Hampstead Garden Suburb,NW11 6EJ,,Ms S Dickinson,020 8346 6824,office@brooklandinf.barnetmail.net
+Community,3 - 11,Broadfields,http://www.broadfields.barnet.sch.uk/,Roseberry Drive,Edgware,HA8 8JP,,Mr R Archibald,020 8359 5430,office@broadfields.barnetmail.net
+Voluntary Aided,3 - 11,Blessed Dominic Catholic,http://www.blesseddominic.barnet.sch.uk/,Lanacre Avenue,Grahame Park,Colindale,NW9 5FN,Ms G Pears,020 8205 3790,office@blesseddominic.barnetmail.net
+Voluntary Aided,11 - 18,Bishop Douglass Catholic,http://www.bishopdouglass.barnet.sch.uk,Hamilton Road,East Finchley,N2 0SQ,,Ms A Murphy,020 8444 5211,office@bishopdouglass.barnetmail.net
+Community,3 - 11,Bell Lane,http://www.belllane.barnet.sch.uk,Bell Lane,Hendon,NW4 2AS,,Ms E Wilson,020 8203 3115,office@belllane.barnetmail.net
+Voluntary Aided,3 - 11,Beit Shvidler Primary (formerly Edgware Jewish Primary),http://www.beitshvidler.org.uk,261 Hale Lane,Edgware,HA8 8NX,,Ms S Keen,020 8238 2746,admin@beitshvidler.org.uk
+Voluntary Aided,3 - 11,Beis Yaakov,,373 Edgware Road,Colindale,NW9 6NQ,,Mrs H Cohen,020 8905 9590,office@beisyaakov.barnet.sch.uk
+Community,3 - 11,Barnfield,http://www.barnfieldschool.co.uk/,Silkstream Road,Edgware,HA8 0DA,,Mr P Wiggins,020 8952 6026,office@barnfield.barnetmail.net
+Voluntary Aided,3 - 11,Holy Trinity CE,http://webfronter.com/barnet/holytrinityn2/,Eagans Close,Market Place,East Finchley,N2 8GA,Mr T Bowden,020 8883 1824,office@holytrinity.barnetmail.net
+Community,3 - 11,Holly Park,,Bellevue Road,Friern Barnet,N11 3HG,,Mr J Maxwell,020 8368 1434,office@hollypark.barnetmail.net
+Foundation,3 - 11,Hollickwood,http://www.hollickwoodschool.org/,Sydney Road,Muswell Hill,N10 2NL,,Mr J Westmore,020 8883 6880,office@hollickwood.barnetmail.net
+Academy,11 - 18,Henrietta Barnett (The),http://www.hbschool.org.uk/,Central Square,Hampstead Garden Suburb,NW11 7BN,,Mr O Blond,020 8458 8999,office@hbschool.barnetmail.net
+Academy,11 - 18,Hendon,http://www.hendonschool.co.uk/,Golders Rise,Hendon,NW4 2HP,,Mr K McKellar,020 8202 9004,info@hendonschool.co.uk
+Voluntary Aided,3 - 11,Hasmonean Primary,,8-10 Shirehall Lane,Hendon,NW4 2PD,,Mrs J Rodin,020 8202 7704,office@hasmonean-pri.barnetmail.net
+Academy,11 - 18,Hasmonean High School,http://www.hasmonean.co.uk/,Boys Site:,Holders Hill Road,Hendon,NW4 1NA,Rabbi D Meyer,020 8203 1411,email@hasmonean.co.uk
+Community,3 - 5,Hampden Way (N),,Hampden Way,Southgate,N14 5DJ,,Ms J McCallum,020 8368 2131,office@hampdenway.barnetmail.net
+Academy,11 - 18,Copthall,http://www.copthallschool.org.uk/,Pursley Road,Mill Hill,NW7 2EP,,Ms J Beaumont,020 8959 1937,office@copthall.barnetmail.net
+Voluntary Aided,5 - 11,St Mary's CE EN4,http://barnet.schooljotter.com/melatstmarys,Littlegrove,East Barnet,EN4 8SR,,Mrs M Adams,020 8449 5856,office@stmarysen4.barnetmail.net
+Community,3 - 11,Coppetts Wood,http://www.coppettswood.barnet.sch.uk/,Coppetts Road,Friern Barnet,N10 1JS,,Mr D Chetty,020 8883 0248,office@coppettswood.barnetmail.net
+Academy,11 - 16,Compton (The),http://www.thecomptonschool.co.uk/,Summers Lane,Finchley,N12 0QG,,Ms T Tunnadine,020 8368 1783,office@thecompton.org.uk
+Community,3 - 11,Claremont,,Claremont Road,Cricklewood,NW2 1AB,,Ms A Anscomb,020 8455 4013,office@claremont.barnetmail.net
+Academy,11 - 18,Christ's College Finchley,http://www.ccfplus.com/school,East End Road,Finchley,N2 0SE,,Mr G Tucker,020 8349 3581,info@ccfplus.com
+Voluntary Aided,3 - 11,Christ Church CE,http://www.christchurchschoolbarnet.org.uk/,Byng Road,Barnet,EN5 4NS,,Mr M Dean,020 8440 2198,office@christchurch.barnetmail.net
+Community,3 - 11,Childs Hill,http://www.childshill.barnet.sch.uk/,Dersingham Road,Childs Hill,NW2 1SL,,Mr D Hawkins,020 8452 4531,office@childshill.barnetmail.net
+Community,5 - 11,Chalgrove,http://webfronter.com/barnet/Chalgrove/,Chalgrove Gardens,Finchley,N3 3PL,,Ms J Gaffney,020 8349 1798,office@chalgrove.barnetmail.net
+Academy,11 - 18,Wren Academy,http://www.wrenacademy.org/,Hilton Avenue,North Finchley,N12 9HB,,Mr M Whitworth,020 8492 6000,firstcontact@wrenacademy.org
+Community,5 - 11,Woodridge,,Southover,North Finchley,N12 7HE,,Ms V Phillips,020 8445 5478,office@woodridge.barnetmail.net
+Community,3 - 11,Woodcroft,http://www.woodcroft.barnet.sch.uk/,Goldbeaters Grove,Edgware,HA8 0QF,,Mr C Tallon,020 8959 3244,office@woodcroft.barnetmail.net
+Community,3 - 11,Whitings Hill,http://www.whitingshill.barnet.sch.uk/,Whitings Road,Barnet,EN5 2QY,,Ms S Convery,020 8359 5360,office@whitingshill.barnetmail.net
+Academy,11 - 18,Whitefield,http://www.whitefield.barnet.sch.uk/,Claremont Road,Cricklewood,NW2 1TR,,Mr M Lavelle,020 8455 4114,office@whitefield.barnetmail.net
+Community,3 - 11,Wessex Gardens,http://www.wessexgardens.co.uk/,Wessex Gardens,Golders Green,NW11 9RR,,Ms K Dawbarn,020 8455 9572,office@wessexgardens.barnetmail.net
+Community,7 - 11,Deansbrook Junior,http://webfronter.com/barnet/deansbrookjuniorschool/,Hale Drive,Mill Hill,NW7 3ED,,Mr S Putman,020 8959 3423,office@deansbrookjnr.barnetmail.net
+Community,5 - 11,Courtland,http://www.courtland.barnet.sch.uk/,Courtland Avenue,Mill Hill,NW7 3BG,,Ms L Walker,020 8959 3274,office@courtland.barnetmail.net
+Community,3 - 7,Deansbrook Infant,http://www.deansbrookinfants.org.uk/,Hale Drive,Mill Hill,NW7 3ED,,Ms C Catley,020 8959 2152,office@deansbrookinf.barnetmail.net
+Community,5 - 11,Danegrove,http://www.danegroveschool.co.uk/,Windsor Drive,East Barnet,EN4 8UD,,Ms Catherine Gunning (Acting),020 8449 4024,office@danegrove.barnetmail.net
+Community,7 - 11,Edgware Junior,http://www.edgware-jun.barnet.sch.uk/,Heming Road,Edgware,HA8 9AB,,Ms S Patterson,020 8952 1472,office@edgware-jun.barnetmail.net
+Community,3 - 7,Edgware Infant &amp; Nursery,http://www.edgware-inf.barnet.sch.uk/,High Street,Edgware,HA8 7EQ,,Mr D Robinson,020 8952 1696,info@edgware-inf.barnet.sch.uk
+Academy,11 - 18,East Barnet,http://www.eastbarnet.barnet.sch.uk/,Chestnut Grove,East Barnet,EN4 8PU,,Mr N Christou,020 8344 2100,office@eastbarnet.barnet.sch.uk
+Community,11 - 16,Friern Barnet,http://www.friern.barnet.sch.uk/,Hemington Avenue,Friern Barnet,N11 3LS,,Mr J Turner,020 8368 2777,office@friern.barnet.sch.uk
+Community,5 - 11,Foulds,http://webfronter.com/barnet/foulds/,Byng Road,Barnet,EN5 4NR,,Ms N Woolf,020 8449 2714,office@foulds.barnetmail.net
+Voluntary Aided,11 - 18,Finchley Catholic High,http://www.finchleycatholic.org.uk/,Woodside Lane,Finchley,N12 8TA,,Mr S McKenna,020 8445 0105,office@finchleycatholichigh.barnetmail.net
+Community,0 - 11,Fairway,http://webfronter.com/barnet/Fairway/,The Fairway,Mill Hill,NW7 3HS,,Ms J Parker,020 8359 5380,office@fairway.barnet.sch.uk
+Voluntary Aided,5 - 11,St Andrew's CE,http://www.standrewstotteridge.co.uk/,The Green,Totteridge,N20 8NX,,Ms H Lockham,020 8445 6157,office@standrews.barnetmail.net
+Community,3 - 11,Goldbeaters,http://webfronter.com/barnet/goldbeaters/,Thirleby Road,Edgware,HA8 0HA,,Mr C Flathers,020 8959 6033,office@goldbeaters.barnetmail.net
+Community,7 - 11,Garden Suburb Junior,http://www.gardensuburbjunior.co.uk/,Childs Way,Hampstead Garden Suburb,NW11 6XU,,Ms E Bhavsar,020 8455 3269,office@gsjs.barnetmail.net
+Community,5 - 7,Underhill Infant,http://webfronter.com/barnet/UnderhillInfant/,Mays Lane,Barnet,EN5 2LZ,,Mrs E Moore,020 8359 3440,office@underhillinf.barnetmail.net
+Community,3 - 7,Dollis Infant,http://webfronter.com/barnet/dollisinfants/,Pursley Road,Mill Hill,NW7 2BU,,Ms C Rayner,020 8959 3995,office@dollisinf.barnetmail.net
+Community,5 - 11,Church Hill,http://www.churchhill.barnet.sch.uk/,Burlington Rise,East Barnet,EN4 8NN,,Ms R Mottershead,020 8368 3431,office@churchhill.barnetmail.net
+Community,5 - 7,Garden Suburb Infant,http://www.gardensuburbinfant.co.uk/,Childs Way,Hampstead Garden Suburb,NW11 6XU,,Ms S Sands,020 8455 8198,office@gsis.barnetmail.net
+Community,3 - 11,Colindale,http://www.colindale.barnet.sch.uk/,Clovelly Avenue,Colindale,NW9 6DT,,Mrs S Lajalati,020 8205 8706,office@colindale.barnetmail.net
+Community,3 - 5,Brookhill (N),,Brookhill Road,East Barnet,EN4 8SD,,Ms C Rudge,020 8449 0601,office@brookhillnursery.barnetmail.net
+Voluntary Aided,5 - 11,Sacred Heart Catholic,http://www.sacredheartonline.ik.org/,2 Oakleigh Park South,Whetstone,N20 9JU,,Mrs C McMahon,020 8445 3854,office@sacredheart.barnetmail.net

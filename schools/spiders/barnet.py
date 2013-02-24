@@ -74,7 +74,7 @@ class BarnetSpider(CrawlSpider):
 				else:
 					self.log("No value found for {} for {}".format(label, school['name']), log.WARNING)
 			elif (label == "address") or (label == [] and addr_most_recent) or (label == "postcode"):
-				addr += value[0].split()
+				addr += value[0].split('\n')
 				addr_most_recent = True # the following items are address items (not strictly true in the postcode case, but just assume that postcode isn't followed by a blank label)
 			
 			elif (label not in self.ignore) and not (value == ['View larger map']):
