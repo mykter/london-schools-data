@@ -1,6 +1,6 @@
 #!/bin/bash -x
 # process each Local Authority's school info
-for LA in harrow ealing brent
+for LA in harrow ealing brent barnet
 do
 	rm -f output/$LA.csv
 	scrapy crawl $LA -o output/$LA.csv -t csv --loglevel=INFO
