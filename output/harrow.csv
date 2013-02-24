@@ -1,0 +1,66 @@
+category,age_range,name,url,address1,address2,address3,address4,head,telephone,email
+,college,Harrow College,http://www.harrow.ac.uk,Brookshill    Harrow Weald,HA3 6RR,,,,020 8909 6000,enquiries@harrow.ac.uk
+,college,St.Dominic's (RC) Sixth Form College,http://www.stdoms.ac.uk,Mount Park Avenue,Harrow-on-the-Hill,HA1 3HX,,,020 8422 8084,stdoms@stdoms.ac.uk
+,college,Stanmore College FEC,http://www.stanmore.ac.uk,Elm Park,Stanmore,HA7 4BQ,,,020 8420 7700,enquiry@stanmore.ac.uk
+,special,Alexandra School,www.alexandra-school.co.uk,Alexandra Avenue,Harrow,HA2 9DX,,Mr Dennis Goldthorpe,020 8864 2739,office@alexandra-school.co.uk
+,special,Kingsley High School,www.kingsley.harrow.sch.uk,Whittlesea Road,Harrow,HA3 6ND,,Ms Pauline Atkins,020 8421 3676,office@kingsley.harrow.sch.uk
+,special,Shaftesbury High School,www.shaftesbury.harrow.sch.uk,Headstone Lane,Harrow,HA3 6LE,,Mr Paul Williams,020 8428 2482,adminoffice@shaftesbury.harrow.sch.uk
+,special,Woodlands School,www.woodlands.harrow.sch.uk,Bransgrove Road,Edgware,HA8 6JP,,Mr John Feltham,020 8381 2188,office@woodlands.harrow.sch.uk
+,secondary,Avanti House,www.avanti.org.uk,Tudor Road,Harrow,HA3 5PQ,,Mr Gareth Jones,02082496830,avantihouse@avanti.org.uk
+,secondary,Bentley Wood High School,www.bentleywood.harrow.sch.uk,Bridges Road,Stanmore,HA7 3NA,,Ms Janice Howkins,020 8954 3623,schooloffice@bentleywood.harrow.sch.uk
+,secondary,Canons High School,www.canonshighschool.org.uk,Shaldon Road,Edgware,HA8 6AN,,Ms Lynn Rowlands,020 8951 5780,admin@canons.harrow.sch.uk
+,secondary,Harrow High School,www.hhsweb.org,Gayton Road,Harrow,HA1 2JG,,Mr Paul Gamble,020 8861 7300,office@hhsweb.org
+,secondary,Hatch End High School,www.hatchend.harrow.sch.uk,Headstone Lane,Harrow,HA3 6NR,,Ms Sue Maguire,020 8428 4330,admin@hatchend.harrow.sch.uk
+,secondary,Nower Hill High School,www.nowerhill.harrow.sch.uk,George V Avenue,Pinner,HA5 5RP,,Mr Howard Freed,020 8863 0877,admin@nowerhill.harrow.sch.uk
+,secondary,Park High School,www.parkhighstanmore.org.uk,Thistlecroft Gardens,Stanmore,HA7 1PL,,Mr Emlyn Lumley,020 8952 2803,info@parkhighstanmore.org.uk
+,secondary,Rooks Heath College for Business and Enterprise,www.rooksheath.harrow.sch.uk,Eastcote Lane,Harrow,HA2 9AH,,Dr John Reavley,020 8422 4675,contactus@rooksheath.harrow.sch.uk
+,secondary,Salvatorian College,www.salvatoriancollege.co.uk,High Street,Harrow,HA3 5DY,,Mr Paul Kassapian,020 8863 2706,admin@salvatorian.harrow.sch.uk
+,secondary,The Sacred Heart Language College,www.tshlc.harrow.sch.uk,High Street,Wealdstone    Harrow,HA3 7AY,,Ms Geraldine Higgins,020 8863 9922,enquiries@tshlc.harrow.sch.uk
+,secondary,Whitmore High School,www.whitmore.harrow.sch.uk,Porlock Avenue,Harrow,HA2 0AD,,Ms Susan Hammond,020 8864 7688,secretary@whitmore.harrow.sch.uk
+,primary,Avanti House,www.avanti.org.uk,Tudor Road,Harrow,HA3 5PQ,,Mr Gareth Jones,02082496830,avantihouse@avanti.org.uk
+,primary,Aylward Primary School,www.aylwardschool.org.uk,Pangbourne Drive,Stanmore,HA7 4RE,,Mrs Moira Arnold,020 8958 9202,office@aylward.harrow.sch.uk
+,primary,Belmont School,www.belmont.harrow.sch.uk,Hibbert Road,Wealdstone,HA3 7JT,,Ms Lindsey Shaw,020 8427 0903,office@belmont.harrow.sch.uk
+,primary,Camrose Primary School with Nursery,www.camrose.harrow.sch.uk,St. Davids Drive,Edgware,HA8 6JH,,Mrs Helen Evans,020 8952 3272,office@camrose.harrow.sch.uk
+,primary,Cannon Lane First School (4-7 years),www.cannonlanefirst.org,Cannonbury Avenue,Pinner,HA5 1TS,,Dame Reena Keeble,020 8866 3536,office@clf.harrow.sch.uk
+,primary,Cannon Lane Junior School,www.cannonlanejuniorschool.co.uk,Cannonbury Avenue,Pinner,HA5 1TS,,Mr Richard Johnson,020 8868 7809,middleoffice@cannonlane.harrow.sch.uk
+,primary,Cedars Manor School,www.cedarsmanor.ik.org,Whittlesea Road,Harrow,HA3 6LS,,Mrs Heather  Lace,020 8428 5845,office@cedarsmanor.harrow.sch.uk
+,primary,Earlsmead Primary School,www.webfronter.com/harrow/Earlsmead,Arundel Drive,Harrow,HA2 8PW,,Mrs Emma Billington,020 8864 5546,office@earlsmead.harrow.sch.uk
+,primary,Elmgrove Primary School and Nursery,www.elmgrove.harrow.sch.uk,Kenmore Avenue,Harrow,HA3 8LU,,Mr Darren Aisthorpe,020 8909 2992,office@elmgrove.harrow.sch.uk
+,primary,Glebe Primary School,www.glebe.harrow.sch.uk,D'Arcy Gardens,Harrow,HA3 9JU,,Mrs Donna Barratt,020 8204 6564,office@glebe.harrow.sch.uk
+,primary,Grange Primary School,www.grangeprimary.org,Welbeck Road,Harrow,HA2 0RY,,Mrs Annette Szymaniak,020 8422 5070,office@grange.harrow.sch.uk
+,primary,Grimsdyke School,www.grimsdyke.harrow.sch.uk,Sylvia Avenue,Pinner,HA5 4QE,,Mrs Gwenda Caroli,020 8428 1324,office@grimsdyke.harrow.sch.uk
+,primary,Heathland School,www.heathlandschool.net,Eastcote Lane,South Harrow,HA2 9AG,,Mr Chris Spruce,020 8422 4503,office@heathland.harrow.sch.uk
+,primary,Kenmore Park Infant and Nursery School,www.kpins-harrow.org.uk,Moorhouse Road,Harrow,HA3 9JA,,Mrs Rutinderjit Mahil-Pooni,020 8204 8759,office@kpins.harrow.sch.uk
+,primary,Kenmore Park Junior School,www.kenmoreparkjunior.ik.org,Moorhouse Road,Harrow,HA3 9JA,,Mr Michael Baumring,020 8204 6294,office@kpjs.harrow.sch.uk
+,primary,Krishna-Avanti Primary School,www.krishna-avanti.org.uk,Camrose Avenue,Edgware,HA8 6ES,,Mrs Pauline Edwards,020 8381 3344,office@krishna-avanti.harrow.sch.uk
+,primary,Longfield Primary School,www.longfieldprimaryschool.co.uk,Dukes Avenue,North Harrow    Harrow,HA2 7NZ,,Mrs Pam Virdee,020 8868 7663,office@longfieldprimary.co.uk
+,primary,Marlborough Primary School,www.marlboroughschool.ik.org,Marlborough Hill,Harrow,HA1 1UJ,,Ms Julia Drozdowskij,020 8427 3087,office@marlborough.harrow.sch.uk
+,primary,Moriah Jewish Day School,www.moriah.harrow.sch.uk,Cannon Lane,Pinner,HA5 1JF,,Mr Alan Shaw,020 8868 2001,office@moriah.harrow.sch.uk
+,primary,Newton Farm Nursery  Infant and Junior School,www.newtonfarm.harrow.sch.uk,Ravenswood Crescent,South Harrow    Harrow,HA2 9JU,,Mrs Rekha Bhakoo,020 8864 8081,office@newtonfarm.harrow.sch.uk
+,primary,Norbury School,www.norbury.harrow.sch.uk,Welldon Crescent,Harrow,HA1 1QQ,,Ms Louise Browning,020 8863 8769,office@norbury.harrow.sch.uk
+,primary,Pinner Park Infant and Nursery School,www.pinnerparkinfant.harrow.sch.uk,Melbourne Avenue,Pinner,HA5 5TL,,Miss Karen Disspain,020 8863 2191,office@pinnerparkinfant.harrow.sch.uk
+,primary,Pinner Park Junior School,www.pinnerparkjuniorschool.co.uk,Melbourne Avenue,Pinner,HA5 5TJ,,Ms Katrina Mildner,020 8863 1239,office@ppjs.harrow.sch.uk
+,primary,Pinner Wood School,www.pinnerwood.harrow.sch.uk,Latimer Gardens,Pinner,HA5 3RA,,Mrs Deb Spruce,020 8868 2468,office@pinnerwood.harrow.sch.uk
+,primary,Priestmead Primary School and Nursery,www.priestmead.harrow.sch.uk,Hartford Avenue,Kenton,HA3 8SZ,,Ms Jackie Treacy,020 8907 5434,office@priestmead.harrow.sch.uk
+,primary,Roxbourne Primary School,www.roxbourneprimaryschool.co.uk,Torbay Road,Harrow,HA2 9QF,,Miss Jane Frankau,020 8422 9207,office@roxbourne.harrow.sch.uk
+,primary,Roxeth Primary School,www.roxethschoolharrow.org,Brickfields,Byron Hill Road    Harrow,HA2 0JA,,Mrs Carole Tobin,020 8422 1344,office@roxeth.harrow.sch.uk
+,primary,St.Anselm's Catholic Primary School,www.st-anselms.harrow.sch.uk,Roxborough Park,Harrow,HA1 3BE,,Mrs Anne Monahan,020 8422 1600,office@st-anselms.harrow.sch.uk
+,primary,St.Bernadette's Catholic Primary School,www.st-bernadettes.co.uk,Clifton Road,Harrow,HA3 9NS,,Mr David O'Farrell,020 8204 8902,office@stbernadette.harrow.sch.uk
+,primary,St.George's Catholic Primary School  Harrow,www.stgeorgesprimary.org,Sudbury Hill,Harrow,HA1 3SB,,Mr Patrick Morrissey,020 8422 1272,office@stgeorges.harrow.sch.uk
+,primary,St.John Fisher Catholic Primary School,www.stjohnfisherschool.co.uk,Melrose Road,Pinner,HA5 5RA,,Mrs Anne Lyons,020 8868 2961,office@st-johnfisher.harrow.sch.uk
+,primary,St.John's Church of England School  Stanmore,www.stjohns.harrow.sch.uk,127 Stanmore Hill,HA7 3FD,,,Ms Jo Hester,020 8954 3978,office@stjohns.harrow.sch.uk
+,primary,St.Joseph's Catholic Primary School,www.stjosephs.harrow.sch.uk,Dobbin Close,Harrow,HA3 7LP,,Mr Philip Sutton,020 8863 8531,office@stjosephs.harrow.sch.uk
+,primary,St.Teresa's Catholic Primary School and Nursery,www.stteresas-harrow.co.uk,Long Elmes,Harrow,HA3 6LE,,Mrs Jane Faint,020 8428 8640,schooloffice@st-teresas.harrow.sch.uk
+,primary,Stag Lane Infant and Nursery School,www.staglaneinfant.harrow.sch.uk,Collier Drive,Edgware,HA8 5RU,,Mrs Nina Will,020 8952 1475,office@staglaneinfant.harrow.sch.uk
+,primary,Stag Lane Junior School,www.staglanejunior.harrow.sch.uk,Collier Drive,Edgware,HA8 5RU,,Mrs Helen Evans,020 8952 2731,office@staglanejunior.harrow.sch.uk
+,primary,Stanburn First School 4-7 years,www.stanburnfirst.harrow.sch.uk,Abercorn Road,Stanmore,HA7 2PJ,,Mrs Anne Drakeford,020 8954 1423,office@stanburnfirst.harrow.sch.uk
+,primary,Stanburn Junior School,www.stanburnjuniorschool.co.uk,Abercorn Road,Stanmore,HA7 2PJ,,Mrs Lynn Chamberlain,020 8954 3823,office@stanburnjunior.harrow.sch.uk
+,primary,Vaughan Primary School,www.vaughan.harrow.sch.uk,Vaughan Road,Harrow,HA1 4EL,,Mr Andrew Griffin,020 8427 7222,office@vaughan.harrow.sch.uk
+,primary,Weald Infant and Nursery School,http://www.wealdinfant.harrow.sch.uk,Robin Hood Drive,Harrow,HA3 7DH,,Mrs Denise Doust,020 8954 4531,office@wealdinfant.harrow.sch.uk
+,primary,Weald Junior School,www.wealdjunior.harrow.sch.uk,Robin Hood Drive,Harrow,HA3 7DH,,Mr Michael Curtin,020 8954 2733,office@wealdjunior.harrow.sch.uk
+,primary,Welldon Park Infant and Nursery School,www.welldonparkinfantschool.co.uk,Kingsley Rd,Harrow,HA2 8LT,,Ms Tricia Serby,020 8864 9378,office@welldonparkinfant.harrow.sch.uk
+,primary,Welldon Park Junior School,,Wyvenhoe Road,Harrow,HA2 8LS,,Mrs Judith Lethbridge,020 8422 4304,office@welldonparkjunior.harrow.sch.uk
+,primary,West Lodge Primary School,www.westlodge.harrow.sch.uk,West End Lane,Pinner,HA5 1AF,,Mrs Kim James,020 8866 9836,office@westlodge.harrow.sch.uk
+,primary,Whitchurch First School and Nursery,www.whitchurchfirst.harrow.sch.uk,Wemborough Road,Stanmore,HA7 2EQ,,Mrs Anne Winstrom,020 8905 6999,office@whitchurchfirst.harrow.sch.uk
+,primary,Whitchurch Junior School,www.whitchurchjunior.harrow.sch.uk,Wemborough Road,Stanmore,HA7 2EQ,,Ms Tara Gratton,020 8951 5380,office@whitchurch.lpplus.net
+,primary,Whitefriars Community School,www.whitefriarsschool.net,Whitefriars Avenue,Harrow,HA3 5RQ,,Mr Chris Spruce,020 8427 2080,office@whitefriars.harrow.sch.uk

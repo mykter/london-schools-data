@@ -1,0 +1,6 @@
+Downloadable data for all schools by London Local Authority is available here:
+ http://www.education.gov.uk/inyourarea/gors/gor_H.shtml
+
+However, it doesn't include head master, telephone, email or url.
+
+This scrapy crawler extracts all of this additional information from the 'brent' and 'harrow' .gov.uk sites.

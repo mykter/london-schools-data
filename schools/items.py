@@ -11,8 +11,18 @@ class School(Item):
 	address1 = Field()
 	address2 = Field()
 	address3 = Field()
+	address4 = Field()
 	telephone = Field()
 	email = Field()
 	age_range = Field()
 	url = Field() # optional
 	category = Field() # optional
+
+
+	def set_addr(self, address):
+		addr = [ a.strip().strip(',') for a in address if len(a.strip()) > 0]
+		if (len(addr) > 4) or (len(addr) < 2):
+			self['address1'] = "WARNING: address of length {} - {}".format(len(addr), addr)
+		else:
+			for i,a in enumerate(addr):
+				self['address{}'.format(i+1)] = a

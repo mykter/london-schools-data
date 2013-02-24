@@ -6,17 +6,24 @@ from schools.items import School
 
 class HarrowSpider(BaseSpider):
 	name = "harrow"
-	allowed_domains = ["harrow.gov.uk"]
+	allowed_domains = ["{}.gov.uk".format(name)]
 	start_urls = [
-		"http://www.harrow.gov.uk/site/custom_scripts/php/myharrow/print/mhnearest_schools_print.php?n=100021303037&cat=primaryschools&sort=alpha&catdesc=Primary%20Schools%C2%A0&dist=0"
+		"http://www.harrow.gov.uk/site/custom_scripts/php/myharrow/print/mhnearest_schools_print.php?n=100021303037&cat=primaryschools&sort=alpha&catdesc=Primary%20Schools%C2%A0&dist=0",
+		"http://www.harrow.gov.uk/site/custom_scripts/php/myharrow/print/mhnearest_schools_print.php?n=200000303697&cat=highschools&sort=alpha&catdesc=&nbsp;&dist=0",
+		"http://www.harrow.gov.uk/site/custom_scripts/php/myharrow/print/mhnearest_schools_print.php?n=200000303697&cat=college&sort=alpha&catdesc=&nbsp;&dist=0",
+		"http://www.harrow.gov.uk/site/custom_scripts/php/myharrow/print/mhnearest_schools_print.php?n=200000303697&cat=specialSchools&sort=alpha&catdesc=&nbsp;&dist=0"
 	]
 
 	mapping = {
 		'headteacher':'head',
+		'acting headteacher':'head',
+		'executive head':'head',
 		'telephone':'telephone',
 		'email':'email',
 		'web address':'url'
 	}
+
+	ignore = ['fax', 'chair of governors', 'la/dfe no:']
 
 	# All the "prow" divs up until a "spacer" div are data for one school
 	# col4 is the school name
@@ -27,6 +34,21 @@ class HarrowSpider(BaseSpider):
 		hxs = HtmlXPathSelector(response)
 		divs = hxs.select('//div[@id="pageInfo"]//div')
 
+
+		if "highschool" in response.url:
+			age_range = "secondary"
+		elif "primaryschool" in response.url:
+			age_range = "primary"
+			self.log("Bad data pre-warning: St.John's Church of England School Stanmore is corrupt, so the address is lost. You'll need to fix this manually.", log.WARNING)
+		elif "special" in response.url:
+			age_range = "special"
+		elif "college" in response.url:
+			age_range = "college"
+			self.log("Bad data pre-warning: Harrow College is corrupt, so the address is a bit broken. You'll need to fix this manually.", log.WARNING)
+		else:
+			self.log("Unexpected url - couldn't find age range, skipping. URL: {}".format(response.url), log.ERROR)
+			return []
+
 		school = School()
 		schools = []
 		address = []
@@ -34,8 +56,8 @@ class HarrowSpider(BaseSpider):
 			if div.select('@class').extract()[0] == 'spacer':
 				# finished previous school
 				# the final school does have a spacer after it
-				self.set_addr(school, address)
-				school['age_range'] = 'Primary'
+				school.set_addr(address)
+				school['age_range'] = age_range
 				schools.append(school)
 				address = []
 				school = School()
@@ -55,16 +77,7 @@ class HarrowSpider(BaseSpider):
 					if label in self.mapping:
 						school[self.mapping[label]] = col3[0].strip()
 					else:
-						self.log("Discarding '{}' as not found in mapping".format(label), level=log.DEBUG)
+						if label not in self.ignore:
+							self.log("Discarding '{}' as not found in mapping".format(label), level=log.WARNING)
 
-				
 		return schools
-
-	def set_addr(self, school, address):
-		addr = [ a.strip() for a in address if len(a.strip()) > 0]
-		if len(addr) != 3:
-			self.log("School '{}' had an address of length {} - discarding: {}".format(school['name'], len(addr), addr),log.WARNING)
-		else:
-			for i,a in enumerate(addr):
-				#self.log("setting address{} to {}".format(i,a))
-				school['address{}'.format(i+1)] = a
